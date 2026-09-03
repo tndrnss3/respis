@@ -1,0 +1,8 @@
+# секреты — не коммитим в git
+.env
+credentials.json
+
+# python
+__pycache__/
+*.pyc
+*.pyo

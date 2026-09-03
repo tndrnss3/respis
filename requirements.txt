@@ -1,0 +1,15 @@
+# Бот
+aiogram>=3.0,<4.0
+
+# Google Gemini (бесплатный API через google-genai)
+google-genai
+
+# Google Диск (скачивание свежего PDF)
+google-api-python-client
+google-auth
+
+# Извлечение текста из PDF
+pdfplumber
+
+# Чтение .env
+python-dotenv
